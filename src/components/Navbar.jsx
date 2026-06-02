@@ -23,7 +23,7 @@ function Navbar() {
                     <div>
 
                         <h1 className="text-2xl font-bold leading-none">
-                            BrightLab
+                            Bright Testing Laboratory Private Limited
                         </h1>
 
                         <p className="text-xs text-cyan-200 tracking-wide">
