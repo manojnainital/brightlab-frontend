@@ -1,10 +1,10 @@
 import {
     FaSeedling,
-    FaHeartbeat,
     FaIndustry,
     FaFlask,
     FaLeaf,
-    FaAppleAlt
+    FaAppleAlt,
+    FaGraduationCap
 } from "react-icons/fa";
 
 function Industries() {
@@ -16,9 +16,9 @@ function Industries() {
             desc: "Ensuring food quality, safety and compliance through advanced laboratory testing services.",
         },
         {
-            title: "Healthcare",
-            icon: <FaHeartbeat />,
-            desc: "Accurate healthcare and diagnostic testing solutions with scientific precision.",
+            title: "Training Programs",
+            icon: <FaGraduationCap />,
+            desc: "Industry-focused training programs designed to enhance skills, build expertise, and prepare professionals for real-world challenges."
         },
         {
             title: "Agriculture",
