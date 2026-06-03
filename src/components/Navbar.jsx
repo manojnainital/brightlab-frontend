@@ -27,7 +27,7 @@ function Navbar() {
                         </h1>
 
                         <p className="text-xs text-cyan-200 tracking-wide">
-                            Advanced Testing Laboratory
+                            Stay Bright Test Right
                         </p>
 
                     </div>

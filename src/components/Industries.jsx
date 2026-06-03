@@ -11,7 +11,7 @@ function Industries() {
 
     const industries = [
         {
-            title: "Food Industry",
+            title: "Food Product Testing",
             icon: <FaAppleAlt />,
             desc: "Ensuring food quality, safety and compliance through advanced laboratory testing services.",
         },
@@ -21,17 +21,17 @@ function Industries() {
             desc: "Industry-focused training programs designed to enhance skills, build expertise, and prepare professionals for real-world challenges."
         },
         {
-            title: "Agriculture",
+            title: "Agriculture Product",
             icon: <FaSeedling />,
             desc: "Agricultural soil, fertilizer and crop testing for sustainable farming solutions.",
         },
+        // {
+        //     title: "Pharmaceutical",
+        //     icon: <FaFlask />,
+        //     desc: "Reliable pharmaceutical analysis and quality assurance for modern healthcare industries.",
+        // },
         {
-            title: "Pharmaceutical",
-            icon: <FaFlask />,
-            desc: "Reliable pharmaceutical analysis and quality assurance for modern healthcare industries.",
-        },
-        {
-            title: "Environment",
+            title: "Environment Test",
             icon: <FaLeaf />,
             desc: "Environmental monitoring and pollution assessment with certified methodologies.",
         },

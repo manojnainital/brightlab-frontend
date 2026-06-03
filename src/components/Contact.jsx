@@ -109,7 +109,7 @@ function Contact() {
                                     </h4>
 
                                     <p className="text-gray-300 mt-2 leading-relaxed">
-                                        Dehradun, Uttarakhand, India
+                                        C-125, Sector-63 HCL, Noida Uttar Pradesh 201301
                                     </p>
 
                                 </div>
@@ -129,7 +129,7 @@ function Contact() {
                                     </h4>
 
                                     <p className="text-gray-300 mt-2">
-                                        +91 9876543210
+                                        +91 7011212220, +91 8796071220
                                     </p>
 
                                 </div>
@@ -149,7 +149,7 @@ function Contact() {
                                     </h4>
 
                                     <p className="text-gray-300 mt-2">
-                                        info@brightlab.com
+                                        btltestinglabs@gmail.com
                                     </p>
 
                                 </div>
@@ -173,7 +173,7 @@ function Contact() {
                                     </p>
 
                                     <p className="text-gray-300">
-                                        9:00 AM - 7:00 PM
+                                        10:00 AM - 6:00 PM
                                     </p>
 
                                 </div>

@@ -6,7 +6,7 @@ function Footer() {
 
                 <div>
                     <h2 className="text-3xl font-bold">
-                        BrightLab
+                        Bright Testing Laboratory
                     </h2>
 
                     <p className="mt-4 text-gray-400">
